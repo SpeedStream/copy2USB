@@ -1,0 +1,10 @@
+Montado
+en
+/dev
+/run
+/
+/sys/fs/cgroup
+/run/lock
+/run/shm
+/run/user
+/boot/efi
