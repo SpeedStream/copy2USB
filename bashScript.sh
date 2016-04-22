@@ -8,7 +8,7 @@
 #>>Desmontar USB
 
 ofile="outputfile.txt"		# Archivo donde guardaremos toda la información contenida en home
-medDir1="mediaDir1.txt"		# Directorio donde almacenaremos la información actual que existe en el directorio /media/ a travès del comando "df --output=target"
+medDir1="mediaDir1.txt"		# Directorio donde almacenaremos la información actual que existe en el directorio /media/ a través del comando "df --output=target"
 medDir2="mediaDir2.txt"		# Directorio donde refrescaremos la información contenida en "df --output=target" para verificar si hay algún cambio. En caso verdadero, hemos conectado una USB
 
 #En esta parte, crearemos el archivo "outputfile.txt".
